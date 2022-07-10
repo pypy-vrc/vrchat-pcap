@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "yus": "file:yus"
+  },
+  "devDependencies": {
+    "node-addon-api": "^5.0.0"
+  }
+}
